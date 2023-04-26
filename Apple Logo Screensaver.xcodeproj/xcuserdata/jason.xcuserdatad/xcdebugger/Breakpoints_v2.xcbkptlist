@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9B8893E4-AF56-42F9-980B-77125A1586E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35AFB413-F554-490A-BD06-5ED3B8867ADD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Preview/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(window:previewViewController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35AFB413-F554-490A-BD06-5ED3B8867ADD - a6c7d3aabfde1223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Preview.AppDelegate.applicationDidFinishLaunching(Foundation.Notification) -&gt; ()"
+                  moduleName = "Preview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jason/Documents/Projects/Apple%20Logo%20Screensaver/Preview/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "35AFB413-F554-490A-BD06-5ED3B8867ADD - c909467bb44fdb84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Preview.AppDelegate.init(window: Swift.Optional&lt;__C.NSWindow&gt;, previewViewController: Swift.Optional&lt;Preview.PreviewViewController&gt;) -&gt; Preview.AppDelegate"
+                  moduleName = "Preview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jason/Documents/Projects/Apple%20Logo%20Screensaver/Preview/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3167D372-8392-41C5-BBEF-D1CA092446A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Preview/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(window:previewViewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
