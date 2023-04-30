@@ -7,8 +7,7 @@
 A simple and colorful screensaver with a looping animated Apple logo. This screensaver is based on a similar one that ran in Apple stores on Macs circa 2020.
 
 ## Installation
-
-1. [Click here to Download](https://github.com/TehNrd/Apple-Logo-Screensaver/releases/download/v1.0.0/Apple.Logo.saver.zip)
+1. **[Click here to Download](https://github.com/TehNrd/Apple-Logo-Screensaver/releases/download/v1.0.0/Apple.Logo.saver.zip)**<br/><br/>Chrome may block the download because this is an uncommonly downloaded file. The file is safe as it has been [signed](https://developer.apple.com/documentation/security/code_signing_services) and [notarized](https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution) by Apple. Select the arrow icon and then select Keep.<br/><img width="575px" src="https://user-images.githubusercontent.com/1007085/235367241-89de1d73-b38d-4d88-bd8a-f2493acd5be2.png"/>
 2. Open and extract **Apple Logo.saver.zip** (double click)
 3. Open **Apple Logo.saver** (double click)
 4. Choose what users to install the screensaver for:
