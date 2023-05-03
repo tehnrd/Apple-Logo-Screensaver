@@ -31,4 +31,4 @@ Does this screensaver bring you joy? If so, and you want to donate a couple of d
 
 ## License
 
-Apple Logo Screensaver is available under the MIT license. See the [LICENSE](https://github.com/tehnrd/Apple-Logo-Screensaver/blob/master/LICENSE) file for more information. Apple and the Apple Logo are registered trademarks of Apple Inc.
+Apple Logo Screensaver is available under the MIT license. See the [LICENSE](https://github.com/tehnrd/Apple-Logo-Screensaver/blob/master/LICENSE) file for more information. Apple, the Apple Logo, and Apple Logo animations are registered trademarks of Apple Inc.
